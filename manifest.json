@@ -1,0 +1,20 @@
+﻿{
+	"manifest_version": 3,
+	"name": "Smart Car 自动刷新裁判事件",
+	"version": "1.0.0",
+	"description": "自动刷新并镜像新增裁判事件到右半屏容器。",
+	"content_scripts": [
+		{
+			"matches": [
+				"*://192.168.169.31/*"
+			],
+			"js": [
+				"scripts/content.js"
+			],
+			"css": [
+				"styles/content.css"
+			],
+			"run_at": "document_idle"
+		}
+	]
+}
