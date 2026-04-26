@@ -1,0 +1,53 @@
+{
+    "records": [
+        {
+            "filename": "match_record_20260426_115908.json",
+            "match_date": "2026-04-26 11:59:08",
+            "size_bytes": 84,
+            "total_events": 0
+        },
+        {
+            "filename": "match_record_20260426_003659.json",
+            "match_date": "2026-04-26 00:38:23",
+            "size_bytes": 4085,
+            "total_events": 14
+        },
+        {
+            "filename": "match_record_20260426_001245.json",
+            "match_date": "2026-04-26 00:36:48",
+            "size_bytes": 12797,
+            "total_events": 44
+        },
+        {
+            "filename": "match_record_20260425_223209.json",
+            "match_date": "2026-04-25 22:44:22",
+            "size_bytes": 107719,
+            "total_events": 364
+        },
+        {
+            "filename": "match_record_20260422_222322.json",
+            "match_date": "2026-04-22 22:32:33",
+            "size_bytes": 43330,
+            "total_events": 147
+        },
+        {
+            "filename": "match_record_20260422_221203.json",
+            "match_date": "2026-04-22 22:12:03",
+            "size_bytes": 84,
+            "total_events": 0
+        },
+        {
+            "filename": "match_record_20260422_220852.json",
+            "match_date": "2026-04-22 22:11:42",
+            "size_bytes": 12072,
+            "total_events": 40
+        },
+        {
+            "filename": "match_record_20260421_233225.json",
+            "match_date": "2026-04-21 23:44:11",
+            "size_bytes": 101449,
+            "total_events": 341
+        }
+    ],
+    "success": true
+}
